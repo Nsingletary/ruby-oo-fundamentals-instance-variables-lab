@@ -9,4 +9,4 @@ end
 
 lassie = Dog.new
 lassie.name = "Lassie"
-lassie.anem #=> "Lassie"
+lassie.name #=> "Lassie"
